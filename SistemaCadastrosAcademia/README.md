@@ -25,11 +25,11 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 1. **Java JDK 25**  
    - Configurado no `PATH` do sistema.
+     
 2. **NetBeans** (ou outra IDE compatível com projetos Java/Ant).
-3. **XAMPP** (ou MySQL instalado separadamente)
-   - Apache e o **MySQL** precisa estar rodando.
-4. **MySQL Connector/J 9.5**
-   - Baixar o `.jar` do conector e adicioná-lo às bibliotecas do projeto.
+   
+3. **XAMPP** 
+   - **Apache** e o **MySQL** precisa estar rodando.
 
 ---
 
